@@ -1,0 +1,8 @@
+h1 {
+  color: transparent;
+  background-color: red;
+  justify-content: center;
+  background-image: linear-gradient(to right, red, blue, green, pink);
+  background-clip: text;
+  -webkit-background-clip: text;
+}
